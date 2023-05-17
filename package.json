@@ -1,0 +1,27 @@
+{
+  "name": "javascript-shortcuts",
+  "version": "1.0.1",
+  "description": "All Small Code of Javascript to use in any Project",
+  "main": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prabhashraman/js-shortcuts.git"
+  },
+  "keywords": [
+    "JS",
+    "Shortcuts",
+    "JS",
+    "date",
+    "string",
+    "cut"
+  ],
+  "author": "Prabhash Raman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prabhashraman/js-shortcuts/issues"
+  },
+  "homepage": "https://github.com/prabhashraman/js-shortcuts#readme"
+}
