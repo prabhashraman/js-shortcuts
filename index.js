@@ -7,5 +7,8 @@ function GetFormattedDate(date){
 function GetFormattedDateTime(dateTime){
 	return dateTime;
 }
+function GetCurrentDateInFormat(dateTime){
+	return dateTime;
+}
 
-module.exports = {GetFormattedDate, GetFormattedDateTime}
+module.exports = {GetCurrentDate,GetFormattedDate, GetFormattedDateTime, GetCurrentDateInFormat}
