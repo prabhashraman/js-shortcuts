@@ -1,6 +1,6 @@
 {
   "name": "javascript-shortcuts",
-  "version": "1.0.3",
+  "version": "1.0.0",
   "description": "All Small Code of Javascript to use in any Project",
   "main": "./index.js",
   "scripts": {
