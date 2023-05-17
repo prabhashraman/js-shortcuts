@@ -1,0 +1,10 @@
+npm login
+prabhash-raman
+Flx@123454321
+ramanprabhash
+javascript-shortcuts
+
+
+npm publish
+
+https://www.npmjs.com/package/javascript-shortcuts
